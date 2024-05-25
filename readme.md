@@ -1,6 +1,6 @@
 123# snapshotvoter
 Скрипт на node.js для off-chain голосования на snapshot.org
-## Доступна новая версия
+#111# Доступна новая версия
 Новая версия требует меньше настройки, доступна из браузера
 
 Ссылка: https://github.com/sm1ck/snapshotvoter/tree/web
